@@ -61,7 +61,7 @@ endif(NOT CMAKE_BUILD_TYPE)
 set(directories
     added gbase gcons geocad ggeom gheisha ghits ghrout ghutils giface giopa
     gkine gparal gphys gscan gstrag gtrak matx55 miface miguti neutron peanut
-    fiface cgpack fluka block comad erdecks erpremc minicern gdraw)
+    fiface cgpack fluka block comad erdecks erpremc minicern gdraw gcalor)
 
 # Fortran sources
 set(fortran_sources gcinit.F)
